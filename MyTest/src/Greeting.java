@@ -4,7 +4,7 @@ public class Greeting {
 	/**
 	 * this amazing piece of programming gold has been done by
 	 * Artur Kesel
-	 *  
+	 *  Testing GIT plug in.
 	 */
 	public static void main(String[] args) throws IOException {
 		
